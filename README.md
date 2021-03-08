@@ -1,2 +1,1 @@
-# C_Projects
-Various C projects
+Some scripts written in C during a course
